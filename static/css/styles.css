@@ -1,0 +1,7 @@
+.reveal .slides h2 {
+    text-transform:capitalize;
+}
+.profile-pic {
+    border-radius:50%;
+    width:200px;
+}
